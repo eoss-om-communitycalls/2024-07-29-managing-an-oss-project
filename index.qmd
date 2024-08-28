@@ -25,6 +25,8 @@ citation-location: margin
 bibliography: bibliography.bib
 ---
 
+[^1]
+
 This resource is intended to be a conversation-starter for open source software project leaders, their collaborators, staff, and community. We know that some of these items are substantial, resource-heavy requests for an open science community and we don’t intend that this is a comprehensive list of topics, nor a limiting one. 
 
 *The topics contained in the first version of this document reflect only [what we discussed on the CZI EOSS community call](https://docs.google.com/document/d/1aQaVlPM1042w3H2cOeRq8I4FRkilxe9Znv6QeJfHv0Y/edit\#heading=h.qh9h2wf9gxuc). We encourage suggestions and contributions to expand the scope of issues that open source project leaders should consider when managing a project, as well as resources that would be helpful to leaders and their projects.*
@@ -34,14 +36,14 @@ This resource is intended to be a conversation-starter for open source software 
 **Fundraising**
 
 - [ ] I have explored and chosen/developed an organizational structure(s) for the project  
-      - [ ] Nonprofit   
-      - [ ] Fiscally sponsored  
-      - [ ] Cooperative  
-      - [ ] Government Institute  
-      - [ ] For-profit \- Company, LLC / Inc   
-      - [ ] University project  
-      - [ ] Using my personal checking account  
-      - [ ] I have no idea yet, but have begun learning about these models  
+  - [ ] Nonprofit   
+  - [ ] Fiscally sponsored  
+  - [ ] Cooperative  
+  - [ ] Government Institute  
+  - [ ] For-profit \- Company, LLC / Inc   
+  - [ ] University project  
+  - [ ] Using my personal checking account  
+  - [ ] I have no idea yet, but have begun learning about these models  
 - [ ] I have considered potential tax implications for me and the people I work with around the above fiscal model  
 - [ ] If applicable, I have considered the relationship(s) of the project to my home organization(s) (e.g., lab in a university, project within an institute)  
       - [ ] I have formalized this relationship in writing  
