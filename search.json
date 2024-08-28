@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "An example report",
+    "section": "",
+    "text": "This template can be used to create simple reports for reporting the output / outcomes of activities and events. It is built and rendered using quarto"
+  },
+  {
+    "objectID": "index.html#subsection-1.1",
+    "href": "index.html#subsection-1.1",
+    "title": "An example report",
+    "section": "Subsection 1.1",
+    "text": "Subsection 1.1\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla placerat pretium tempus. Mauris eget nisl ante. Etiam iaculis, nisl ultricies facilisis aliquet, urna odio porta nisi, non tristique enim sapien eget mi. Proin sed orci lobortis, sodales orci quis, consectetur nulla. Phasellus eget enim rhoncus, fermentum nisi ut, aliquet nulla. Sed mollis ullamcorper dolor, at tempus est vulputate eget. Mauris consequat felis nec eros venenatis, sit amet tempor neque consectetur. Curabitur pharetra, metus a sodales fermentum, neque libero sollicitudin magna, eget fermentum sapien dolor sit amet dolor. Fusce odio felis, pulvinar in laoreet at, sodales sed magna. Sed sagittis, enim id feugiat laoreet, erat nisi rhoncus ipsum, vitae suscipit quam nulla id libero. Integer condimentum, eros eget rutrum porta, tortor turpis sodales ligula, a facilisis nisi tortor id risus. 2\n2 You can also include notes inline, and don’t need to create an identifier for them"
+  },
+  {
+    "objectID": "index.html#including-tables",
+    "href": "index.html#including-tables",
+    "title": "An example report",
+    "section": "Including Tables",
+    "text": "Including Tables\n\n\n\nCountry\nPopulation\n\n\n\n\nChina\n1,412,600,000\n\n\nIndia\n1,366,000,000\n\n\nUnited States\n331,000,000\n\n\nIndonesia\n273,500,000\n\n\nPakistan\n220,900,000\n\n\nBrazil\n212,600,000\n\n\nNigeria\n206,100,000\n\n\nBangladesh\n166,300,000\n\n\nRussia\n146,700,000\n\n\nMexico\n126,000,000"
+  },
+  {
+    "objectID": "index.html#section",
+    "href": "index.html#section",
+    "title": "An example report",
+    "section": "",
+    "text": "This resource was generated as part of CZI’s EOSS Community Calls during late 2024 with Organizational Mycology facilitating discussions, gathering input, and generating the final document. Participants in the calls, and open comment periods are given co-authorship in alphabetical order by last name."
+  }
+]
