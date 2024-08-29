@@ -22,10 +22,12 @@ execute:
   echo: fenced
 reference-location: margin
 citation-location: margin
-bibliography: bibliography.bib
 ---
 
-[^1]
+This resource is intended to be a conversation-starter for open source software project leaders, their collaborators, 
+staff, and community. We know that some of these items are substantial, resource-heavy requests for an open 
+science community and we don’t intend that this is a comprehensive list of topics, nor a limiting one. [^1]
+
 
 [^1]:  This resource was first developed by attendees at the July 29, 2024 Chan-Zuckerberg Initiative community call for the Essential Open Source Software program. If you add to this document, please also add your name to the contributors list (alphabetically by last name). A list of additional contributors will be shared in a forthcoming GitHub repo, where you can also submit a contribution. 
 
