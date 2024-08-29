@@ -12,7 +12,7 @@ authors:
   - "Reshama Shaikh" 
   - "Dan Sholler" 
   - "Carly Strasser"
-date: "July 29, 2024"
+date: "August 30, 2024"
 format:
     html: 
       self-contained: true
