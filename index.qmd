@@ -29,7 +29,9 @@ staff, and community. We know that some of these items are substantial, resource
 science community and we don’t intend that this is a comprehensive list of topics, nor a limiting one. [^1]
 
 
-[^1]:  This resource was first developed by attendees at the July 29, 2024 Chan-Zuckerberg Initiative community call for the Essential Open Source Software program. If you add to this document, please also add your name to the contributors list (alphabetically by last name). A list of additional contributors will be shared in a forthcoming GitHub repo, where you can also submit a contribution. 
+[^1]:  This resource was first developed by attendees at the July 29, 2024 Chan-Zuckerberg Initiative 
+community call for the Essential Open Source Software program. If you add to this document, please also add your
+name to the contributors list (alphabetically by last name). You can make contributions at this [Github Repo](https://github.com/eoss-om-communitycalls/2024-07-29-managing-an-oss-project)
 
 
 ## Fundraising 
