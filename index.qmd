@@ -46,7 +46,7 @@ This resource is intended to be a conversation-starter for open source software 
   - [ ] I have no idea yet, but have begun learning about these models  
 - [ ] I have considered potential tax implications for me and the people I work with around the above fiscal model  
 - [ ] If applicable, I have considered the relationship(s) of the project to my home organization(s) (e.g., lab in a university, project within an institute)  
-      - [ ] I have formalized this relationship in writing  
+  - [ ] I have formalized this relationship in writing  
 - [ ] My project has a statement about transparently sharing finances, funding allocations, and the decision making process in an ongoing wayfunding cycles and the possibility of funding cuts/increases with community members
 
 **Developing and Maintaining  the Project**
