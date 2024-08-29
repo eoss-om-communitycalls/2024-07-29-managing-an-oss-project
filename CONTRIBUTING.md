@@ -2,6 +2,8 @@
 
 This is a community open source project to gather and share wisdom from the CZI EOSS Community. Organizational Mycology works to faciltiate theses resources on behalf of the EOSS Community. 
 
+We are looking for contributions that add topics and enhance our resources for the benefit of other Open Source Leaders.
+
 ## Contributor Agreement
 
 By contributing, you agree that we may redistribute your work under [our license](LICENSE.md)
