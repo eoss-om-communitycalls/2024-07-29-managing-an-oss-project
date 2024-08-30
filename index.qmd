@@ -18,6 +18,7 @@ format:
       self-contained: true
       grid: 
         margin-width: 350px
+    pdf: default
 execute: 
   echo: fenced
 reference-location: margin
@@ -188,5 +189,5 @@ and generating the final document. Participants in the calls, and open comment p
 given co-authorship in alphabetical order by last name._  
   
 
-[![CZI's Essential Open Source Software for Science](https://chanzuckerberg.github.io/open-science/badges/CZI-EOSS.svg)](https://czi.co/EOSS)
-[![](https://astropy-report.orgmycology.com/short_logo.png)](https://orgmycology.com)
+[![CZI's Essential Open Source Software for Science](img/CZI-EOSS.png)](https://czi.co/EOSS)
+[![](img/om_short_logo.png)](https://orgmycology.com)
