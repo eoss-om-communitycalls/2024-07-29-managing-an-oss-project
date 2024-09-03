@@ -16,6 +16,9 @@ date: "August 30, 2024"
 format:
     html: 
       self-contained: true
+      include-in-header:
+        - text: |
+             <script defer data-domain="eoss-om-communitycalls.github.io" src="https://a.duckles.nz/js/script.js"></script>
       grid: 
         margin-width: 350px
       other-links: 
