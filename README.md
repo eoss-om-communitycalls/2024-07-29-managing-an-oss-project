@@ -6,4 +6,4 @@ The resource was first created by attendees of the July 29, 2024 Chan-Zuckerberg
 
 We encourage suggestions and contributions to expand the scope of issues that open source project leaders should consider when managing a project, as well as resources that would be helpful to leaders and their projects.
 
-
+When making a contribution, please add your name to the list of contributors.
