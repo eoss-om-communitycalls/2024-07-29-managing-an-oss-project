@@ -36,4 +36,6 @@ and to meet some of our community members.
     and would like to add or change material,
     you can submit a pull request (PR).
 
+4.  When you make a contribution, please be sure to add your name to the list of contributors.
+
 __This contributor guide was adapted from that of Software Carpentry, The Carpentries__
